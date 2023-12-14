@@ -1,0 +1,28 @@
+##gff-version 3
+##source-version GeneMark.hmm_PROKARYOTIC 3.26								
+##date: Tue Oct 19 03:34:48 2021								
+# Sequence file name: seq.fna								
+# Model file name: GeneMark_hmm_heuristic.mod								
+# RBS: false								
+# Model information: Heuristic_model_for_genetic_code_1_and_GC_30								
+BV5	artemis	inverted_repeat	1	620	.	+	.	
+BV5	GeneMark.hmm	CDS	623	2536	-2391.214703	+	0	ID=BV5_1;Name=helicase_3;color=10;anna=ORF01_helicase;
+BV5	GeneMark.hmm	CDS	2588	3661	-1308.043114	-	0	ID=BV5_2;Name=rve-INT;color=6;anna=ORF02_rve-INT;
+BV5	GeneMark.hmm	CDS	3771	5618	-2304.750024	+	0	ID=BV5_3;Name=pPolB;color=2;anna=ORF03_pPolB;
+BV5	GeneMark.hmm	CDS	5670	6008	-419.052431	+	0	ID=BV5_4;Alias=MV04;Name=MV04;color=13;anna=ORF04_MV04;
+BV5	GeneMark.hmm	CDS	6065	6349	-352.324276	+	0	ID=BV5_5;Alias=MV05;Name=MV05;color=13;anna=ORF05_MV05;
+BV5	GeneMark.hmm	CDS	6410	6907	-626.50084	+	0	ID=BV5_6;Name=GIY-YIG;color=11;anna=ORF06_GIY-YIG;
+BV5	GeneMark.hmm	CDS	6950	7324	-479.029754	-	0	ID=BV5_7;Alias=MV08;Name=MV08;color=13;anna=ORF07_MV08;
+BV5	GeneMark.hmm	CDS	7372	7944	-699.412576	-	0	ID=BV5_8;Alias=MV09;Name=MV09;color=13;anna=ORF08_MV09;
+BV5	GeneMark.hmm	CDS	7990	8277	-339.687647	-	0	ID=BV5_9;Alias=MV10;Name=kinase;color=13;anna=ORF09_MV10;
+BV5	GeneMark.hmm	CDS	8305	8481	-201.833394	-	0	ID=BV5_10;Alias=MV11;Name=MV11;color=13;anna=ORF10_MV11;
+BV5	GeneMark.hmm	CDS	8509	9144	-819.858302	-	0	ID=BV5_11;Alias=MV12;Name=MV12;color=13;anna=ORF11_MV12;
+BV5	GeneMark.hmm	CDS	9186	9533	-414.26835	-	0	ID=BV5_12;Name=DNA-methylase;color=18;anna=ORF12_DNA-methylase;
+BV5	GeneMark.hmm	CDS	10024	11946	-2420.661881	-	0	ID=BV5_13;Alias=MV13;Name=lipase;color=12;anna=ORF13_MV13;
+BV5	GeneMark.hmm	CDS	12021	12836	-975.752743	+	0	ID=BV5_14;Alias=MV14;Name=nucleotidyl-transferase;color=13;anna=ORF14_MV14;
+BV5	GeneMark.hmm	CDS	13032	13964	-1138.822669	+	0	ID=BV5_15;Alias=MV15;Name=ATPase;color=8;anna=ORF15_ATPase;
+BV5	GeneMark.hmm	CDS	13998	14567	-710.954354	+	0	ID=BV5_16;Name=PRO;color=3;anna=ORF16_PRO;
+BV5	GeneMark.hmm	CDS	14609	15520	-1158.699649	+	0	ID=BV5_17;Name=penton;color=9;anna=ORF17_penton;
+BV5	GeneMark.hmm	CDS	15634	17439	-2315.703811	+	0	ID=BV5_18;Name=MCP;color=4;anna=ORF18_MCP;
+BV5	GeneMark.hmm	CDS	17498	19246	-2250.633522	+	0	ID=BV5_19;Alias=MV19;Name=peptidase;color=7;anna=ORF19_MV19;
+BV5	artemis	inverted_repeat	19309	19928	.	-	.	

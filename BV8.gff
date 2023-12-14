@@ -1,0 +1,26 @@
+##gff-version 3
+##source-version GeneMark.hmm_PROKARYOTIC 3.26
+##date: Thu Aug  4 05:43:23 2022
+# Sequence file name: seq.fna
+# Model file name: GeneMark_hmm_heuristic.mod
+# RBS: false
+# Model information: Heuristic_model_for_genetic_code_1_and_GC_31
+BV8	GeneMark.hmm	CDS	625	2538	-2392.261578	+	0	ID=BV8_1;Name=helicase_3;anna=ORF_01;
+BV8	GeneMark.hmm	CDS	2590	3663	-1310.470909	-	0	ID=BV8_2;Name=rve-INT;anna=ORF_02c;
+BV8	GeneMark.hmm	CDS	3773	5620	-2305.162061	+	0	ID=BV8_3;Name=pPolB;anna=ORF_03;
+BV8	GeneMark.hmm	CDS	5672	6010	-420.345493	+	0	ID=BV8_4;Name=MV04;anna=ORF_04;
+BV8	GeneMark.hmm	CDS	6067	6351	-353.624514	+	0	ID=BV8_5;Name=MV05;anna=ORF_05;
+BV8	GeneMark.hmm	CDS	6412	6909	-624.900558	+	0	ID=BV8_6;Name=GIY-YIG;anna=ORF_06;
+BV8	GeneMark.hmm	CDS	6958	7326	-473.385502	-	0	ID=BV8_7;Name=MV08;anna=ORF_07c;
+BV8	GeneMark.hmm	CDS	7375	7947	-695.266384	-	0	ID=BV8_8;Name=MV09;anna=ORF_08c;
+BV8	GeneMark.hmm	CDS	7993	8280	-344.167506	-	0	ID=BV8_9;Name=kinase;anna=ORF_09c;
+BV8	GeneMark.hmm	CDS	8308	8523	-257.645975	-	0	ID=BV8_10;Name=kinase;anna=ORF_10c;
+BV8	GeneMark.hmm	CDS	8563	8727	-188.982189	-	0	ID=BV8_11;Name=MV11;anna=ORF_11c;
+BV8	GeneMark.hmm	CDS	8755	9390	-817.417833	-	0	ID=BV8_12;Name=MV12;anna=ORF_12c;
+BV8	GeneMark.hmm	CDS	9443	11356	-2405.948313	-	0	ID=BV8_13;Name=lipase;anna=ORF_13c;
+BV8	GeneMark.hmm	CDS	11431	12246	-978.796737	+	0	ID=BV8_14;Name=nucleotidyl-transferase;anna=ORF_14;
+BV8	GeneMark.hmm	CDS	12443	13375	-1143.712585	+	0	ID=BV8_15;Name=ATPase;anna=ORF_15;
+BV8	GeneMark.hmm	CDS	13409	13975	-715.611657	+	0	ID=BV8_16;Name=PRO;anna=ORF_16;
+BV8	GeneMark.hmm	CDS	14017	14928	-1155.647373	+	0	ID=BV8_17;Name=penton;anna=ORF_17;
+BV8	GeneMark.hmm	CDS	15042	16862	-2330.558010	+	0	ID=BV8_18;Name=MCP;anna=ORF_18;
+BV8	GeneMark.hmm	CDS	16921	18669	-2251.636824	+	0	ID=BV8_19;Name=peptidase;anna=ORF_19;
